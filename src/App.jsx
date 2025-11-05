@@ -24,7 +24,7 @@ function App() {
         <strong>Location:</strong> Mbaruk Road, off Ngong Rd <br />
         (Opposite Homescope Mbagathi) <br />
         {/* 👆 End of location details */}
-        <strong>Entry:</strong> Ksh 500  {/* Advance / Gate */}
+        <strong>Entry:</strong> Ksh 500 (pochi la biashara)  {/* Advance / Gate */}
       </p>
 
       {/* 💰 Description with full payment details */}
